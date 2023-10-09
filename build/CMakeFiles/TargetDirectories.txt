@@ -1,0 +1,16 @@
+/home/lance/Desktop/server-framework/build/CMakeFiles/rebuild_cache.dir
+/home/lance/Desktop/server-framework/build/CMakeFiles/edit_cache.dir
+/home/lance/Desktop/server-framework/build/src/CMakeFiles/rebuild_cache.dir
+/home/lance/Desktop/server-framework/build/src/CMakeFiles/edit_cache.dir
+/home/lance/Desktop/server-framework/build/src/CMakeFiles/libconet.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/rebuild_cache.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_util.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/edit_cache.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_thread.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_scheduler.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_log.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_io_manager.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_fiber.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_hook.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_exception.dir
+/home/lance/Desktop/server-framework/build/tests/CMakeFiles/test_config.dir

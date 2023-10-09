@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/noncopyable.h
+
+../include/singleton.h
+memory
+-
+
+../include/util.h
+noncopyable.h
+../include/noncopyable.h
+singleton.h
+../include/singleton.h
+cinttypes
+-
+memory
+-
+pthread.h
+-
+string
+-
+sys/syscall.h
+-
+sys/types.h
+-
+unistd.h
+-
+vector
+-
+
+/home/lance/Desktop/server-framework/tests/test_util.cc
+util.h
+/home/lance/Desktop/server-framework/tests/util.h
+iostream
+-
+

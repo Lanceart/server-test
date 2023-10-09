@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/address.cc.o -c /home/lance/Desktop/server-framework/src/address.cc",
+  "file": "/home/lance/Desktop/server-framework/src/address.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/config.cc.o -c /home/lance/Desktop/server-framework/src/config.cc",
+  "file": "/home/lance/Desktop/server-framework/src/config.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/exception.cc.o -c /home/lance/Desktop/server-framework/src/exception.cc",
+  "file": "/home/lance/Desktop/server-framework/src/exception.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/fd_manager.cc.o -c /home/lance/Desktop/server-framework/src/fd_manager.cc",
+  "file": "/home/lance/Desktop/server-framework/src/fd_manager.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/fiber.cc.o -c /home/lance/Desktop/server-framework/src/fiber.cc",
+  "file": "/home/lance/Desktop/server-framework/src/fiber.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/hook.cc.o -c /home/lance/Desktop/server-framework/src/hook.cc",
+  "file": "/home/lance/Desktop/server-framework/src/hook.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/io_manager.cc.o -c /home/lance/Desktop/server-framework/src/io_manager.cc",
+  "file": "/home/lance/Desktop/server-framework/src/io_manager.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/log.cc.o -c /home/lance/Desktop/server-framework/src/log.cc",
+  "file": "/home/lance/Desktop/server-framework/src/log.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/scheduler.cc.o -c /home/lance/Desktop/server-framework/src/scheduler.cc",
+  "file": "/home/lance/Desktop/server-framework/src/scheduler.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/thread.cc.o -c /home/lance/Desktop/server-framework/src/thread.cc",
+  "file": "/home/lance/Desktop/server-framework/src/thread.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/timer.cc.o -c /home/lance/Desktop/server-framework/src/timer.cc",
+  "file": "/home/lance/Desktop/server-framework/src/timer.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/src",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/util.cc.o -c /home/lance/Desktop/server-framework/src/util.cc",
+  "file": "/home/lance/Desktop/server-framework/src/util.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_util.dir/test_util.cc.o -c /home/lance/Desktop/server-framework/tests/test_util.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_util.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_thread.dir/test_thread.cc.o -c /home/lance/Desktop/server-framework/tests/test_thread.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_thread.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_scheduler.dir/test_scheduler.cc.o -c /home/lance/Desktop/server-framework/tests/test_scheduler.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_scheduler.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_log.dir/test_log.cc.o -c /home/lance/Desktop/server-framework/tests/test_log.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_log.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_io_manager.dir/test_io_manager.cc.o -c /home/lance/Desktop/server-framework/tests/test_io_manager.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_io_manager.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_fiber.dir/test_fiber.cc.o -c /home/lance/Desktop/server-framework/tests/test_fiber.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_fiber.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_hook.dir/test_hook.cc.o -c /home/lance/Desktop/server-framework/tests/test_hook.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_hook.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_exception.dir/test_exception.cc.o -c /home/lance/Desktop/server-framework/tests/test_exception.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_exception.cc"
+},
+{
+  "directory": "/home/lance/Desktop/server-framework/build/tests",
+  "command": "/usr/bin/c++   -I/home/lance/Desktop/server-framework/include -I/home/lance/Desktop/server-framework/tests/../src    -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test_config.dir/test_config.cc.o -c /home/lance/Desktop/server-framework/tests/test_config.cc",
+  "file": "/home/lance/Desktop/server-framework/tests/test_config.cc"
+}
+]

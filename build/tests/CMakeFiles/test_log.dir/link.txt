@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_log.dir/test_log.cc.o  -o ../../bin/test_log   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib ../../lib/liblibconet.a -lyaml-cpp -lpthread -ldl 

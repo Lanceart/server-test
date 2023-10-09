@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/exception.h
+exception
+-
+string
+-
+cstring
+-
+cerrno
+-
+
+/home/lance/Desktop/server-framework/tests/test_exception.cc
+exception.h
+/home/lance/Desktop/server-framework/tests/exception.h
+unistd.h
+-
+iostream
+-
+
